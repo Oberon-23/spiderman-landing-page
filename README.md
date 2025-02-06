@@ -1,8 +1,12 @@
 # Spider-Man Landing Page
 
+---
+
 ## Sobre o Projeto
 
 Este projeto consiste em uma **Landing Page inspirada no universo do Homem-Aranha**, desenvolvida para destacar habilidades de design moderno e responsivo. A página simula uma campanha promocional com foco visual, trazendo uma experiência interativa e envolvente.
+
+----
 
 ## Tecnologias Utilizadas
 
@@ -10,11 +14,15 @@ Este projeto consiste em uma **Landing Page inspirada no universo do Homem-Aranh
 - **CSS3**: Estilização e design responsivo com transições suaves.
 - **JavaScript (ES6+)**: Interatividade e manipulação dinâmica de elementos.
 
+---
+
 ## Funcionalidades Implementadas
 
 - **Layout Responsivo**: Compatível com dispositivos móveis, tablets e desktops.
 - **Design Temático**: Elementos visuais que remetem ao universo do Homem-Aranha.
 - **Animações e Efeitos**: Transições suaves e interatividade visual.
+
+---
 
 ## Como Executar o Projeto
 
@@ -30,6 +38,8 @@ Este projeto consiste em uma **Landing Page inspirada no universo do Homem-Aranh
 
 3. **Abra o arquivo `index.html` no navegador:**
    - Você pode abrir diretamente no navegador ou usar uma extensão como **Live Server** no VSCode.
+  
+---
 
 ## Estrutura de Pastas
 
@@ -48,6 +58,8 @@ spiderman-landing-page/
 - `script.js`: Scripts para adicionar interatividade.
 - `assets/`: Pasta que contém imagens e ícones utilizados no projeto.
 
+---
+
 ## Aprendizados
 
 - Aplicação prática de **CSS Grid** e **Flexbox** para layout.
@@ -55,9 +67,13 @@ spiderman-landing-page/
 - Implementação de **animações e efeitos visuais** com CSS e JavaScript.
 - Organização de arquivos e uso de boas práticas no desenvolvimento front-end.
 
+---
+
 ## Demonstração
 
 Confira o projeto publicado: [Spider-Man Landing Page - Deploy](https://spiderman-landing-page-nine.vercel.app/)
+
+---
 
 ## Autor
 
