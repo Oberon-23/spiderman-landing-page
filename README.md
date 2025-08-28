@@ -1,90 +1,67 @@
-# Spider-Man Landing Page
+<div align="center"> 
+  <img width="256" height="256" src="https://img.icons8.com/color/512/spiderman-head.png" alt="spiderman-logo" />
+</div>
+
+# 🕷️ Spider-Man Landing Page
+
+![Status](https://img.shields.io/badge/STATUS-Concluído-green?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## Sobre o Projeto
 
-Este projeto consiste em uma **Landing Page inspirada no universo do Homem-Aranha**, desenvolvida para destacar habilidades de design moderno e responsivo. A página simula uma campanha promocional com foco visual, trazendo uma experiência interativa e envolvente.
-
-----
-
-## Tecnologias Utilizadas
-
-- **HTML5**: Estruturação semântica da página.
-- **CSS3**: Estilização e design responsivo com transições suaves.
-- **JavaScript (ES6+)**: Interatividade e manipulação dinâmica de elementos.
+O **Spider-Man Landing Page** é uma página estática **inspirada no universo do Homem-Aranha**, desenvolvida para treinar design moderno, responsivo e interativo.  
+A proposta é simular uma **campanha promocional visual** com foco em experiência do usuário.
 
 ---
 
-## Funcionalidades Implementadas
+## Funcionalidades
 
-- **Layout Responsivo**: Compatível com dispositivos móveis, tablets e desktops.
-- **Design Temático**: Elementos visuais que remetem ao universo do Homem-Aranha.
-- **Animações e Efeitos**: Transições suaves e interatividade visual.
+- 📱 **Layout responsivo** (desktop, tablets e dispositivos móveis)  
+- 🎨 **Design temático** com elementos que remetem ao universo do Homem-Aranha  
+- 🌀 **Animações e efeitos visuais** com transições em CSS e interatividade em JavaScript  
+
+---
+
+## Tecnologias Utilizadas
+
+- 🟠 **HTML5** – Estrutura semântica da página  
+- 🔵 **CSS3** – Estilização, responsividade e transições suaves  
+- 💛 **JavaScript (ES6+)** – Interatividade e manipulação dinâmica do DOM  
 
 ---
 
 ## Como Executar o Projeto
 
-1. **Clone este repositório:**
-   ```bash
-   git clone https://github.com/Oberon-23/spiderman-landing-page.git
-   ```
+```bash
+# Clone este repositório
+$ git clone https://github.com/Oberon-23/spiderman-landing-page.git
 
-2. **Acesse o diretório do projeto:**
-   ```bash
-   cd spiderman-landing-page
-   ```
+# Acesse a pasta do projeto
+$ cd spiderman-landing-page
 
-3. **Abra o arquivo `index.html` no navegador:**
-   - Você pode abrir diretamente no navegador ou usar uma extensão como **Live Server** no VSCode.
-  
----
-
-## Estrutura de Pastas
-
-```plaintext
-spiderman-landing-page/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
+# Abra o arquivo index.html no navegador
+$ start index.html
+Ou utilize a extensão Live Server no VSCode para melhor experiência.
 ```
 
-- `index.html`: Estrutura principal do projeto.
-- `style.css`: Arquivo de estilização com foco em responsividade e design temático.
-- `script.js`: Scripts para adicionar interatividade.
-- `assets/`: Pasta que contém imagens e ícones utilizados no projeto.
-
----
+--- 
 
 ## Aprendizados
 
-- Aplicação prática de **CSS Grid** e **Flexbox** para layout.
-- Criação de **design responsivo** adaptado para diferentes dispositivos.
-- Implementação de **animações e efeitos visuais** com CSS e JavaScript.
-- Organização de arquivos e uso de boas práticas no desenvolvimento front-end.
+Durante o desenvolvimento:
 
----
+- Pratiquei CSS Grid e Flexbox para construção de layouts
 
-## Demonstração
+- Trabalhei design responsivo adaptado para diversos dispositivos
 
-Confira o projeto publicado: [Spider-Man Landing Page - Deploy](https://spiderman-landing-page-nine.vercel.app/)
+- Apliquei animações e efeitos visuais com CSS e JS
 
----
+- Organizei arquivos e utilizei boas práticas no desenvolvimento front-end
 
 ## Autor
 
-Desenvolvido por **Breno Silva**.
-
-- [LinkedIn](https://www.linkedin.com/in/brenosilvarangel/)
-- [GitHub](https://github.com/Oberon-23)
-
----
-
-### Sugestões e Feedback
-
-Contribuições são bem-vindas! Fique à vontade para abrir issues ou pull requests para melhorias no projeto. 😊
-
+Desenvolvido por Breno Silva
